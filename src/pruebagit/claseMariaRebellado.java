@@ -10,7 +10,5 @@ package pruebagit;
  * @author mrebelladofernandez
  */
 public class claseMariaRebellado {
-    
-    //estA ES MI CLASE
-    
+    //hola esto es una prueba y añado mi clase
 }
